@@ -14,7 +14,7 @@ import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
 
 /**
- * @author xugang
+ * @author xugang1
  *
  */
 @Path("/ai-threed/tdAssetApp")
